@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am a Biomedical Engineering student from Belgium interested in biomedical image processing, computer vision and everything to do with the brain.
+Currently I am working on my thesis around 3D reconstruction from colonoscopy images!
 
 <!--
 **maximesaenen/maximesaenen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
